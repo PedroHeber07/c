@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472613416 source:c:\users\najara\documents\pedro\if condicional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

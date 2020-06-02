@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526609329 source:c:\users\rangox\documents\c\exercicio4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

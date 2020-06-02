@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473258766 source:c:\users\najara\documents\pedro\laços condicionais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
